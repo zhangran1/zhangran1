@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a consultant work in [Zenika Singapore](https://zenika.sg/)
 - 🌱 I’m currently learning Java SrpingBoot.
-- :books: Im currently reading **The Innovator's Dilemma** (创新者的窘境)
+- :books: Im currently reading **Sharpening Your People Skills**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure.
 - :space_invader: I like :books: , :walking: and :swimmer:.
 - 📫 How to reach me: https://zhangran1.info
