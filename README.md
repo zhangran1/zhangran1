@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - :books: Im currently reading **Sharpening Your People Skills**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure.
 - :space_invader: I like :books: , :walking: and :swimmer:.
-- 📫 How to reach me: https://zhangran1.info
+- 📫 How to reach me: https://zhangran.info
