@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure.
 - :space_invader: I like :books: , :walking: and :swimmer:.
 - 📫 How to reach me: https://zhangran.info
+
+
+## Github Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=zhangran1&show_icons=true&count_private=true&theme=)
