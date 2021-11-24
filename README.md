@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a consultant work in [Zenika Singapore](https://zenika.sg/)
 - 🌱 I’m currently learning Kubernetes.
-- :books: I'm currently reading **Mindset: The New Psychology of Success**
+- :books: I'm currently reading **Own Your Tech Career**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
 - :space_invader: I like :books: , :walking: and :swimmer:.
 - 📫 How to reach me: 
