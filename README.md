@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a consultant work in [Zenika Singapore](https://zenika.sg/)
-- 🌱 I’m currently learning Keycloak.
+- 🌱 I’m currently learning Google Cloud Platform.
 - :books: I'm currently reading **Cloud Strategy A Decision-Based Approach to Successful Cloud Migration**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
 - :space_invader: I like :books: , :walking: and :swimmer:.
