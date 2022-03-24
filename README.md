@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m a consultant work in [Zenika Singapore](https://zenika.sg/)
+- 🔭 I’m a Strategic Cloud Engineer work in [Google](https://www.google.com/)
 - 🌱 I’m currently learning Google Cloud Platform.
-- :books: I'm currently reading **Cloud Strategy A Decision-Based Approach to Successful Cloud Migration**
+- :books: I'm currently reading **behavioristic physiology**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
 - :space_invader: I like :books: , :walking: and :swimmer:.
 - 📫 How to reach me: 
