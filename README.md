@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Strategic Cloud Engineer work in [Google](https://www.google.com/)
 - 🌱 I’m currently learning Google Cloud Platform.
-- :books: I'm currently reading **The complete Software Development's Career Guide**
+- :books: I'm currently reading **The Complete Software Development's Career Guide**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
 - :space_invader: I like :books: , :walking: and :swimmer:.
 - 📫 How to reach me: 
