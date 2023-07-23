@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Google Cloud Platform.
 - :books: I'm currently reading **Winning: The Ultimate Business How-To Book**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
-- :space_invader: I like :books: , :🏃  and :swimmer:.
+- :space_invader: I like :books: , 🏃  and :swimmer:.
 - 📫 How to reach me: 
 [![](https://img.shields.io/badge/blog-%238888)](https://zhangran.info)
 [![](https://img.shields.io/badge/linkedin-%238888)](https://www.linkedin.com/in/zhangran1/)
