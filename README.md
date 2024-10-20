@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a Strategic Cloud Engineer work in [Google](https://www.google.com/)
-- 🌱 I’m currently learning Google Cloud Platform.
-- :books: I'm currently reading **Winning: The Ultimate Business How-To Book**
-- 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure, Keycloak Security Solutioning.
+- :books: I'm currently reading **假努力 - 方向不对， 一切白费**
+- 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure.
 - :space_invader: I like :books: , 🏃  and :swimmer:.
 - 📫 How to reach me: 
 [![](https://img.shields.io/badge/blog-%238888)](https://zhangran.info)
