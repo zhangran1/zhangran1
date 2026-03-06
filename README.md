@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/linkedin-%238888)](https://www.linkedin.com/in/zhangran1/)
 [![](https://img.shields.io/badge/stackoverflow-%238888)](https://stackoverflow.com/users/7110215/zhang-ran)
 
-
-### Github Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=zhangran1&show_icons=true&count_private=true&theme=)
