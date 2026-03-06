@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a Strategic Cloud Engineer work in [Google](https://www.google.com/)
-- :books: I'm currently reading **Bitcoin SUPERCYCLE**
+- :books: I'm currently reading **The 5 Types of Wealth**
 - 💬 Ask me about Cloud Native Development, Public/Private/Hybrid Cloud infrastructure.
 - :space_invader: I like :books: , 🏃  and :swimmer:.
 - 📫 How to reach me: 
